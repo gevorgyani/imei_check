@@ -15,3 +15,6 @@ uvicorn main:app --reload
 Ссылки
 Telegram Bot API Documentation
 FastAPI Documentation
+
+После добавление в whitelist
+Запустите бот с помощью команды /start
