@@ -1,0 +1,5 @@
+SQLAlchemy~=2.0.37
+config~=0.5.1
+pydantic~=2.10.5
+fastapi~=0.115.7
+httpx~=0.28.1
